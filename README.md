@@ -1,4 +1,5 @@
 COMPANY NAME: CODTECH IT SOLUTIONS, NAME: SUJITH R, INTERN ID: COD123, DOMAIN: DATA SCIENCE, DURATION: 4 WEEKS 
+
 TASK DESCRIPTION:
 Task 1: Data Pipeline Development The first task involves creating an automated pipeline for data preprocessing, transformation, and loading (ETL). Interns are required to use Python, leveraging libraries such as Pandas and Scikit-learn. The goal is to streamline raw data into a clean, analysis-ready format. This process includes handling missing values, encoding categorical data, normalizing features, and splitting datasets. Deliverables include a Python script or Jupyter Notebook demonstrating the full pipeline workflow, emphasizing modularity and reusability.
 
